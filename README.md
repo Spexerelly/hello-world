@@ -10,3 +10,4 @@ Headquarters is now sending out rescue crew to pull out residents from the after
 We need crew to raise then all out.
 A restoration crew is now already excavating tar and separating it from the ground in \to cleaning compartments.
 Please send in the advanced cleaning supplies right away.
+copyright 2018
