@@ -4,3 +4,4 @@ Also there are commands and ways to use them to make changes.
 Different files can be committed as one separate change or individual one by one changes.
 'git add' makes them one single change.
 Use 'git reset HEAD file...' to unstage a particular file.
+When git status is run it looks modified with an 'm' beside it.
